@@ -1,16 +1,29 @@
-# lindi_portfolio
+# Lindi Portfolio
 
-A new Flutter project.
+Welcome to the GitHub portfolio of **Lindiwe Mkuzangwe**. This repository showcases personal and professional projects, highlighting skills in web development, design, and software engineering.
 
-## Getting Started
+## 🌟 Project Overview
 
-This project is a starting point for a Flutter application.
+The `lindi_portfolio` project is a personal portfolio website designed to present Lindiwe Mkuzangwe's work, experience, and contact information in a clean and professional format.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Responsive design for desktop and mobile
+- Project showcase section
+- About Me and Contact sections
+- GitHub Pages deployment
+## 🛠 Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 🚀 Setup Instructions
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LindiMk/lindi_portfolio.git
+  
